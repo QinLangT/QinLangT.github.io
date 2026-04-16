@@ -12,4 +12,6 @@ draft: false
 
 本站使用 [Hugo](https://gohugo.io) 构建，主题为 [PaperMod](https://github.com/adityatelange/hugo-PaperMod)，托管在 [GitHub Pages](https://pages.github.com/)。
 
-主要分享：编程技术、工具使用、学习心得。
+我会在这里分享一些我学到的自认为有意思的技术。
+
+欢迎跟我交流：wizardlang@163.com
