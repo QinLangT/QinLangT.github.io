@@ -4,7 +4,7 @@ title = '我的技术博客'
 theme = 'PaperMod'
 
 [params]
-  author = '你的名字'
+  author = '覃朗'
   description = '分享技术，记录成长'
   env = 'production'
   ShowReadingTime = true
