@@ -1,11 +1,11 @@
 baseURL = 'https://QinLangT.github.io/'
 languageCode = 'zh-cn'
-title = '我的技术博客'
+title = 'WizardLang's 技术博客'
 theme = 'PaperMod'
 
 [params]
   author = 'WizardLang'
-  description = '分享技术，记录成长'
+  description = '分享密码技术'
   env = 'production'
   ShowReadingTime = true
   ShowShareButtons = false
