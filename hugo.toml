@@ -1,6 +1,6 @@
 baseURL = 'https://QinLangT.github.io/'
 languageCode = 'zh-cn'
-title = 'WizardLang's 技术博客'
+title = "WizardLang's 技术博客"
 theme = 'PaperMod'
 
 [params]
