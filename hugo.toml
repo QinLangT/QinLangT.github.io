@@ -1,0 +1,28 @@
+baseURL = 'https://你的用户名.github.io/'
+languageCode = 'zh-cn'
+title = '我的技术博客'
+theme = 'PaperMod'
+
+[params]
+  author = '你的名字'
+  description = '分享技术，记录成长'
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  defaultTheme = 'auto'
+
+[menu]
+  [[menu.main]]
+    name = '首页'
+    url = '/'
+    weight = 1
+  [[menu.main]]
+    name = '文章'
+    url = '/posts/'
+    weight = 2
+  [[menu.main]]
+    name = '关于'
+    url = '/about/'
+    weight = 3
