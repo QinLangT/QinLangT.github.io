@@ -6,6 +6,7 @@ theme = 'PaperMod'
 [params]
   author = '你的名字'
   description = '分享技术，记录成长'
+  env = 'production'
   ShowReadingTime = true
   ShowShareButtons = false
   ShowPostNavLinks = true
